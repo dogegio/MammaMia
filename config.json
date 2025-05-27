@@ -36,7 +36,7 @@
             "domain": "stream",
             "CB_PROXY": "0",
             "enabled": "1",
-            "url": "https://cb01net.my"
+            "url": "https://cb01net.download"
         },
         "DDLStream": {
             "domain": "co",
