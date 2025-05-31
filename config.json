@@ -5,7 +5,7 @@
             "SC_ForwardProxy": "0",
             "SC_PROXY": "0",
             "enabled": "1",
-            "url": "https://streamingunity.to"
+            "url": "https://streamingunity.blog"
         },
         "Filmpertutti": {
             "domain": "app",
@@ -70,7 +70,7 @@
         "SkyStreaming": {
             "domain": "my",
             "enabled": "1",
-            "url": "https://skystreaming.stream"
+            "url": "https://skystreaming.yoga"
         },
         "DaddyLiveHD": {
             "domain": "to",
