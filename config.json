@@ -36,7 +36,7 @@
             "domain": "stream",
             "CB_PROXY": "0",
             "enabled": "1",
-            "url": "https://cb01net.life"
+            "url": "https://cb01net.digital"
         },
         "DDLStream": {
             "domain": "co",
@@ -54,7 +54,7 @@
             "enabled": "1",
             "GS_ForwardProxy": "0",
             "GS_PROXY": "0",
-            "url": "https://guardaserietv.blog"
+            "url": "https://guardaserietv.icu"
         },
         "GuardaHD": {
             "domain": "stream",
