@@ -5,7 +5,7 @@
             "SC_ForwardProxy": "0",
             "SC_PROXY": "0",
             "enabled": "1",
-            "url": "https://streamingunity.art"
+            "url": "https://streamingunity.agency"
         },
         "Filmpertutti": {
             "domain": "app",
@@ -36,7 +36,7 @@
             "domain": "stream",
             "CB_PROXY": "0",
             "enabled": "1",
-            "url": "https://cb01net.digital"
+            "url": "https://cb01net.live"
         },
         "DDLStream": {
             "domain": "co",
@@ -54,7 +54,7 @@
             "enabled": "1",
             "GS_ForwardProxy": "0",
             "GS_PROXY": "0",
-            "url": "https://guardaserietv.icu"
+            "url": "https://guardaserietv.lat"
         },
         "GuardaHD": {
             "domain": "stream",
