@@ -65,7 +65,8 @@
         },
         "AnimeWorld": {
             "domain": "so",
-            "enabled": "1"
+            "enabled": "1",
+            "url": "https://onlineserietv.com"
         },
         "SkyStreaming": {
             "domain": "my",
