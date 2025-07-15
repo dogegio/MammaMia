@@ -5,7 +5,7 @@
             "SC_ForwardProxy": "0",
             "SC_PROXY": "0",
             "enabled": "1",
-            "url": "https://streamingcommunityz.city"
+            "url": "https://streamingcommunityz.boats"
         },
         "Filmpertutti": {
             "domain": "app",
@@ -36,7 +36,7 @@
             "domain": "stream",
             "CB_PROXY": "0",
             "enabled": "1",
-            "url": "https://cb01net.click"
+            "url": "https://cb01net.pro"
         },
         "DDLStream": {
             "domain": "co",
