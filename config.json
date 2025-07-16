@@ -17,7 +17,7 @@
             "TF_ForwardProxy": "0",
             "TF_PROXY": "0",
             "enabled": "1",
-            "url": "https://www.tantifilm.agency"
+            "url": "https://www.tantifilm.locker"
         },
         "Mysterius": {
             "enabled": "0"
@@ -54,7 +54,7 @@
             "enabled": "1",
             "GS_ForwardProxy": "0",
             "GS_PROXY": "0",
-            "url": "https://guardaserietv.qpon"
+            "url": "https://guardaserietv.cc"
         },
         "GuardaHD": {
             "domain": "stream",
